@@ -1,0 +1,9 @@
+# Visual Studio dependencies
+CppProperties.json
+.vscode
+.vs
+
+# Binaries
+bin/
+*.exe
+*.obj
